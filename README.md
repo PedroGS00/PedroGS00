@@ -1,5 +1,8 @@
 # Pedro Gabriel
 ## Olá, esse é o meu perfil do GitHub👋
+- 🔭 Atualmente estou trabalhando como Analista de TI
+- 🌱 Atualmente estou estudando na faculdade Senac
+- ⚡ Curiosidade: Minha jornada começou com a simples vontade de explorar o funcionamento de sistemas, o que se transformou em uma paixão por tecnologia e inovação.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
