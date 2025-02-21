@@ -1,14 +1,20 @@
-# Olá me chamo Pedro Gabriel, este é o meu perfil do GitHub👋
+# Hello, my name is Pedro Gabriel, and this is my GitHub profile 👋  
 
-- 🔭 Atualmente estou trabalhando como Analista de TI
-- 🌱 Atualmente estou estudando na faculdade Senac
-- ⚡ Curiosidade: Minha jornada começou com a simples vontade de explorar o funcionamento de sistemas, o que se transformou em uma paixão por tecnologia e inovação.
+- 🔭 Currently working as an IT Analyst  
+- 🌱 Currently studying at Senac College  
+- ⚡ Fun fact: My journey began with a simple curiosity about how systems work, which turned into a passion for technology and innovation.
 
-## Ferramentas e Tecnologias
+## Tools & Technologies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="40" height="40"/>
 
-## Contatos:
+## Learning:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+          
+          
+
+
+## Contacts:
 
 <div>
 <a href="https://www.instagram.com/taldo_pedrogs" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
